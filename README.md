@@ -1,4 +1,4 @@
-# Uber-Trip-Analysis-Dashbord-PowerBi-Project
+# uber-trip-analysis-pbi
 This project presents an interactive Power BI dashboard analyzing over 103K Uber trip records, aimed at uncovering business insights to support data-driven decision-making.
  Key Insights:
 Total Bookings: 103.7K | Revenue: $1.6M | Distance: 349K miles
